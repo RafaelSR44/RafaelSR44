@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RafaelSR44/RafaelSR44/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -57,6 +51,6 @@
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nuv3t7cebfczjl7vvbhhlea)
-
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nuv3t7cebfczjl7vvbhhlea)
+</div>
