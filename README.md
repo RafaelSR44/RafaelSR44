@@ -1,8 +1,22 @@
-<h2 align="left">Oi 👋! Meu nome é Rafael e eu sou um estudante de engenharia de computação, from  Brasil 🟩🟨🟦🟨🟩!</h2>
+<div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png"  />
+</div>
 
 ###
 
-<p align="center">Número de pessoas que acessaram meu perfil!</p>
+<h2 align="left">Oi 👋! Meu nome é Rafael e eu sou um estudante de engenharia de computação, Made in Brasil 🟩🟨🟦🟨🟩!</h2>
+
+###
+
+<h3 align="left">Curiosidades sobre mim 🚀</h3>
+
+###
+
+<p align="left">- 🎓 Estudei Oceanografia por 3 anos e Engenharia de Computação por 1,5 anos na UNIVALI.  <br>- 💼 Já fui garçom enquanto desenvolvia projetos que uniam minhas duas áreas de estudo.  <br>- 🌊 Tenho uma paixão por explorar a interface entre tecnologia e o meio ambiente.  <br>- 🎮 Amo trabalhar em grupo, tomar decisões e liderar em situações desafiadoras.  <br>- 🌍 Busco sempre usar minha criatividade para o bem coletivo.</p>
+
+###
+
+<h3 align="center">Número de pessoas que acessaram meu perfil!</h3>
 
 ###
 
@@ -41,9 +55,7 @@
 
 ###
 
-<img align="right" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1622.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelSR44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -52,5 +64,14 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nuv3t7cebfczjl7vvbhhlea)
+<img align="left" height="400" src="https://www.icegif.com/wp-content/uploads/icegif-1622.gif"  />
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22nuv3t7cebfczjl7vvbhhlea">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22nuv3t7cebfczjl7vvbhhlea&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
