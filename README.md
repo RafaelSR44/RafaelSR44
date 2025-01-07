@@ -77,3 +77,15 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h3 align="center">Github do meu Buddie</h3>
+
+###
+
+<div align="center">
+	<a href="https://github.com/AndreLobo1" target="_blank">
+		<img src="gitHubIcon.png" width="52" height="52" alt="github logo" />
+	</a>
+</div>
