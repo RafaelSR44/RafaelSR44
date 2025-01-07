@@ -4,7 +4,9 @@
 
 ###
 
-<h2 align="left">Oi 👋! Meu nome é Rafael e eu sou um estudante de engenharia de computação, Made in Brasil 🟩🟨🟦🟨🟩!</h2>
+<div align="center">
+  <img height="250" src="apresentacaoff.gif"  />
+</div>
 
 ###
 
