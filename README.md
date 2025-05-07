@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png"  />
+  <img height="100" src="welcome.png"  />
 </div>
 
 ###
